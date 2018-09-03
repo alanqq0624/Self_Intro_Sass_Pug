@@ -1,0 +1,28 @@
+{
+  "name": "self_intro_sass_pug",
+  "version": "1.0.0",
+  "description": "A practice of PUG and SASS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanqq0624/Self_Intro_Sass_Pug.git"
+  },
+  "keywords": [
+    "SASS",
+    "PUG"
+  ],
+  "author": "alanqq0624",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanqq0624/Self_Intro_Sass_Pug/issues"
+  },
+  "homepage": "https://github.com/alanqq0624/Self_Intro_Sass_Pug#readme"
+}
